@@ -67,7 +67,7 @@ const Header = () => {
       initial={{opacity:0}}
       animate={{opacity:1}}
       transition={{delay:1.2,duration:0.8}}
-      className='mt-2 text-neutral-600'>Generated images from ImageZ</motion.p>
+      className='mt-2 text-neutral-600'>Generated images from Nix AI</motion.p>
     </motion.div>
   )
 }
