@@ -56,8 +56,8 @@ export const stepsData = [
       icon: step_icon_2,
     },
     {
-      title: 'Download & Share',
-      description: 'Instantly download your creation or share it directly from our platform. Let your imagination flow and watch it come to life effortlessly.',
+      title: 'Download',
+      description: 'Instantly download your creation. Let your imagination flow and watch it come to life effortlessly.',
       icon: step_icon_3,
     },
   ];
@@ -80,7 +80,7 @@ export const testimonialsData = [
     {
         image:people_2,
         name:'Arjun Sharma',
-        role:' Mahinda',
+        role:' Mahindra',
         stars:5,
         text:`Impressive work! Fast loading times, intuitive design, and flawless backend integration. Highly recommend.`
     },
